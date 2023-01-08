@@ -6,7 +6,7 @@ Full Stack Developer
 
 A dual citizen of Australia and the UK, I've been working in the tech industry since 2010.
 
-* 🌍  I'm based in Brisbane, Australia
+* 🌍  I'm currently based in Brisbane, Australia
 
 ### Skills
 
