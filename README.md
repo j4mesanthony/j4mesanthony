@@ -1,7 +1,7 @@
 James Anthony
 =====================================================================================================================================
 
-Developer
+Frontend Developer
 --------------------
 
 A dual citizen of Australia and the UK, I've been working in the tech industry since 2010.
