@@ -4,7 +4,7 @@ James Anthony
 Developer
 --------------------
 
-A dual citizen of Australia and the UK, I've been working in the tech industry since 2010.
+I'm an enthusiastic learner of all things tech, a Front-End Developer by trade with experience across a breadth of frameworks and libraries.
 
 * 🌍  I'm based in Brisbane, Australia
 
